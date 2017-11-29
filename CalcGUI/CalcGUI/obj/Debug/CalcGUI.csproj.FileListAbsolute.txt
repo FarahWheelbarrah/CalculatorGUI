@@ -1,0 +1,9 @@
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\CalcGUI\CalcGUI\bin\Debug\CalcGUI.exe.config
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\CalcGUI\CalcGUI\bin\Debug\CalcGUI.exe
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\CalcGUI\CalcGUI\bin\Debug\CalcGUI.pdb
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\CalcGUI\CalcGUI\obj\Debug\CalcGUI.Form1.resources
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\CalcGUI\CalcGUI\obj\Debug\CalcGUI.Properties.Resources.resources
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\CalcGUI\CalcGUI\obj\Debug\CalcGUI.csproj.GenerateResource.Cache
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\CalcGUI\CalcGUI\obj\Debug\CalcGUI.exe
+c:\users\andre\onedrive\documents\visual studio 2015\Projects\CalcGUI\CalcGUI\obj\Debug\CalcGUI.pdb
+C:\Users\andre\OneDrive\Documents\Visual Studio 2015\Projects\CalcGUI\CalcGUI\obj\Debug\CalcGUI.csprojResolveAssemblyReference.cache
